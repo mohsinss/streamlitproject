@@ -35,7 +35,7 @@ with st.container():
     st.write(
         "I am passionate about finding ways to use Python and VBA to be more efficient and effective in business settings."
     )
-    st.write("[Learn More >](https://pythonandvba.com)")
+    st.write("[Learn More >](https://mohsinalshammari.com)")
 
 # ---- WHAT I DO ----
 with st.container():
@@ -82,7 +82,7 @@ with st.container():
     with image_column:
         st.image(img_contact_form)
     with text_column:
-        st.subheader("How To Add A Contact Form To Your Streamlit App")
+        st.subheader("How To Write an amzing resume")
         st.write(
             """
             Want to add a contact form to your Streamlit website?
